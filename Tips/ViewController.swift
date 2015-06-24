@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Tips
 //
-//  Created by Morgan Russell - Contractor on 1/18/15.
+//  Created by Morgan Russell on 6/23/15.
 //  Copyright (c) 2015 Codepath. All rights reserved.
 //
 

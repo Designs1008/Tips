@@ -24,13 +24,14 @@
                   continueAfterRunningActions = "No"
                   symbolName = "Tips.ViewController.billField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
                   moduleName = "Tips"
-                  urlString = "file:///Users/russell_m/Desktop/Tips/Tips/ViewController.swift"
-                  timestampString = "443448428.787587"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russell_m/Desktop/iOS_SwiftCode_Pract/Tips/ViewController.swift"
+                  timestampString = "456802007.630752"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
-                  offsetFromSymbolStart = "25">
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -38,13 +39,14 @@
                   continueAfterRunningActions = "No"
                   symbolName = "Tips.ViewController.billField.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
                   moduleName = "Tips"
-                  urlString = "file:///Users/russell_m/Desktop/Tips/Tips/ViewController.swift"
-                  timestampString = "443448428.787698"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russell_m/Desktop/iOS_SwiftCode_Pract/Tips/ViewController.swift"
+                  timestampString = "456802007.630854"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
-                  offsetFromSymbolStart = "25">
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -52,27 +54,14 @@
                   continueAfterRunningActions = "No"
                   symbolName = "Tips.ViewController.init (Tips.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Tips.ViewController"
                   moduleName = "Tips"
-                  urlString = "file:///Users/russell_m/Desktop/Tips/Tips/ViewController.swift"
-                  timestampString = "443448428.78785"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russell_m/Desktop/iOS_SwiftCode_Pract/Tips/ViewController.swift"
+                  timestampString = "456802007.63099"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "15"
                   endingLineNumber = "15"
-                  offsetFromSymbolStart = "213">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Tips.ViewController.init (Tips.ViewController.Type)() -&gt; Tips.ViewController"
-                  moduleName = "Tips"
-                  urlString = "file:///Users/russell_m/Desktop/Tips/Tips/ViewController.swift"
-                  timestampString = "443448428.787956"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
-                  offsetFromSymbolStart = "132">
+                  offsetFromSymbolStart = "209">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -80,13 +69,14 @@
                   continueAfterRunningActions = "No"
                   symbolName = "Tips.ViewController.init (Tips.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Tips.ViewController"
                   moduleName = "Tips"
-                  urlString = "file:///Users/russell_m/Desktop/Tips/Tips/ViewController.swift"
-                  timestampString = "443448428.78806"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/russell_m/Desktop/iOS_SwiftCode_Pract/Tips/ViewController.swift"
+                  timestampString = "456802007.631097"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "15"
                   endingLineNumber = "15"
-                  offsetFromSymbolStart = "142">
+                  offsetFromSymbolStart = "138">
                </Location>
             </Locations>
          </BreakpointContent>
